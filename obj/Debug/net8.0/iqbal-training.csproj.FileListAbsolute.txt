@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\iqbal-training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\iqbal-training.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\iqbal-training.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\iqbal-training.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\bin\Debug\net8.0\iqbal-training.exe
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\bin\Debug\net8.0\iqbal-training.deps.json
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\bin\Debug\net8.0\iqbal-training.runtimeconfig.json
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\bin\Debug\net8.0\iqbal-training.dll
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\bin\Debug\net8.0\iqbal-training.pdb
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\iqbal-training.dll
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\refint\iqbal-training.dll
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\iqbal-training.pdb
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\iqbal-training.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\ref\iqbal-training.dll
