@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("iqbal-training")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa4c46846f2e01a64ff73794cb3a71fb26080612")]
 [assembly: System.Reflection.AssemblyProductAttribute("iqbal-training")]
 [assembly: System.Reflection.AssemblyTitleAttribute("iqbal-training")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

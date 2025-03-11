@@ -2,6 +2,7 @@ C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\iqbal-
 C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\iqbal-training.AssemblyInfoInputs.cache
 C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\iqbal-training.AssemblyInfo.cs
 C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\iqbal-training.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\iqbal-training.sourcelink.json
 C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\bin\Debug\net8.0\iqbal-training.exe
 C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\bin\Debug\net8.0\iqbal-training.deps.json
 C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\bin\Debug\net8.0\iqbal-training.runtimeconfig.json

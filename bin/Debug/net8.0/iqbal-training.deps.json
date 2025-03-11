@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "Iqbal-Training/1.0.0": {
+      "iqbal-training/1.0.0": {
         "runtime": {
-          "Iqbal-Training.dll": {}
+          "iqbal-training.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Iqbal-Training/1.0.0": {
+    "iqbal-training/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
