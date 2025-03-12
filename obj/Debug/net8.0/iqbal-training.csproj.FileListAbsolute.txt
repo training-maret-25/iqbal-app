@@ -13,3 +13,8 @@ C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\refint
 C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\iqbal-training.pdb
 C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\iqbal-training.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\ref\iqbal-training.dll
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\bin\Debug\net8.0\Serilog.dll
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\iqbal-training.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\iqbal-training\iqbal-training\obj\Debug\net8.0\iqbal-tr.172CB2A2.Up2Date

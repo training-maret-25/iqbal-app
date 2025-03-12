@@ -1,0 +1,4 @@
+2025-03-12 09:23:23.607 +07:00 [ERR] File tidak ditemukan: config.txt
+2025-03-12 09:27:00.567 +07:00 [ERR] File tidak ditemukan: config.txt
+2025-03-12 09:27:12.857 +07:00 [ERR] File tidak ditemukan: config.txt
+2025-03-12 09:37:32.426 +07:00 [ERR] File tidak ditemukan: config.txt

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq; 
 using System.Collections.Generic;
 using System.IO;
@@ -7,7 +7,7 @@ using Serilog;
 using System.Security.Cryptography.X509Certificates;
 
 
-class Program
+class OopIsp
 {
     public interface IWorker
     {

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4kOjWcxbCjA=",
+  "dgSpecHash": "cmHpMbkmB5g=",
   "success": true,
   "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\iqbal-training\\iqbal-training\\iqbal-training.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\serilog.sinks.console\\6.0.0\\serilog.sinks.console.6.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\serilog.sinks.file\\6.0.0\\serilog.sinks.file.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
